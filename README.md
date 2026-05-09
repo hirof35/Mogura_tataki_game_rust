@@ -57,3 +57,4 @@
 ---
 
 ## 📁 ディレクトリ構造（Directory Structure）
+<img width="997" height="782" alt="スクリーンショット 2026-05-09 192519" src="https://github.com/user-attachments/assets/a8e81da6-9e63-46f2-bc6e-99f2773f5f5b" />
